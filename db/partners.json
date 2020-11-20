@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Пицца плюс",
+        "time_of_delivery": 50,
+        "stars": 4.5,
+        "price": 900,
+        "kitchen": "Пицца",
+        "image": "./img/pizza-plus/preview.jpg",
+        "products": "pizza-plus.json"
+    },
+    {
+        "name": "Тануки",
+        "time_of_delivery": 50,
+        "stars": 4.5,
+        "price": 1200,
+        "kitchen": "Ролы",
+        "image": "./img/Tanuki/preview.jpg",
+        "products": "Tanuki.json"
+    },
+    {
+        "name": "FoodBand",
+        "time_of_delivery": 50,
+        "stars": 4.5,
+        "price": 450,
+        "kitchen": "Пицца",
+        "image": "img/food-band/preview.jpg",
+        "products": "food-band.json"
+    },
+    {
+        "name": "Палки скалки",
+        "time_of_delivery": 50,
+        "stars": 4.5,
+        "price": 500,
+        "kitchen": "Пицца",
+        "image": "img/palki-skalki/preview.jpg",
+        "products": "palki-skalki.json"
+    },
+    {
+        "name": "PizzaBurger",
+        "time_of_delivery": 50,
+        "stars": 4.5,
+        "price": 700,
+        "kitchen": "Пицца",
+        "image": "img/pizza-burger/preview.jpg",
+        "products": "pizza-burger.json"
+    },
+    {
+        "name": "Быстрые закуски",
+        "time_of_delivery": 35,
+        "stars": 4.3,
+        "price": 500,
+        "kitchen": "Закуски",
+        "image": "img/gusi-lebedi/preview.jpg",
+        "products": "gusi-lebedi.json"
+    }
+]
